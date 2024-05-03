@@ -1,13 +1,13 @@
 ### Olá! Eu sou Carlos Eduardo Berenguel
 
 - 🔭 Hoje trabalho no suporte de infraestrutura 
-- 🌱 Estudando Microsoft Azure Administrador Associeto Az104 Javascript, React Native,
+- 🌱 Estudando Microsoft Azure Administrador Associeto Az104 Javascript, React Native, React Full Stark 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
