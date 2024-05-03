@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-  <img align="center" alt="Carlos-node" height="30" width="40" src=https://user-images.githubusercontent.com/48495838/184381867-10ef6d02-e4a2-46a8-9ee8-de99feb0ad3b.png" />
+  <img align="center" alt="Carlos-node" height="30" width="40" src="https://user-images.githubusercontent.com/48495838/184381867-10ef6d02-e4a2-46a8-9ee8-de99feb0ad3b.png" />
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -31,4 +31,13 @@
   <a href="https://www.linkedin.com/in/carlos-eduardo-berenguel-9b06ab22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+</div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&layout=compact&theme=dark&hide=issues,contribs&line_height=30.5)](https://github.com/RenanBorba?tab=overview&from=2018-01-01&to=2030-12-31) 
+
+</div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/carloseberenguel/carloseberenguel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/carloseberenguel/carloseberenguel/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+
+<div align="right"> 
