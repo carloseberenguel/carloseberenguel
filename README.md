@@ -54,8 +54,8 @@ Microsoft Certifield AZ -900 Cloud Certificate
 
 
 </div>
+![snake gif](https://github.com/carloseberenguel/carloseberenguel/blob/output/github-contribution-grid-snake.gif)
 
- ![Snake animation](https://github.com/carloseberenguel/carloseberenguel/blob/output/github-contribution-grid-snake.svg)
 
 <div align="right"> 
 
