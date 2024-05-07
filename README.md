@@ -12,7 +12,9 @@ Specialist graduate in the Postgraduate Lato Sensu Analysis, Implementation and 
 Degree in Computing Centro Universitario Claretiano (SP) <br>
 <p>
 MBA in Retail Marketing FaSouza (MG) <br>
-<p></p>
+<p>
+Former high school teacher and technician Etec de Bebedouro - "Prof. Idio Zucchi"
+</p>
 
 Microsoft Certifield AZ -900 Cloud Certificate
 
