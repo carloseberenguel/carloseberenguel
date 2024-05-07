@@ -37,7 +37,6 @@
 
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/carloseberenguel/carloseberenguel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/carloseberenguel/carloseberenguel/output/github-contribution-grid-snake-dark.svg#gh-light-mode-only)
+ ![Snake animation](https://github.com/carloseberenguel/carloseberenguel/blob/output/github-contribution-grid-snake.svg)
 
 <div align="right"> 
