@@ -1,6 +1,16 @@
-### Olá! Eu sou Carlos Eduardo Berenguel
 
-- 🔭 Hoje trabalho no suporte de infraestrutura 
+
+### Hello! I am Carlos Eduardo Berenguel
+
+Constantly updated for over 20 years,
+participation in internships, jobs and events in the IT area.
+
+Graduated from the Bachelor's degree in Information Systems at Faculdade São Luis FESL (2008) (SP) <br>
+Specialist graduate in the Postgraduate Lato Sensu Analysis, Implementation and computer projects - Barão de Maua university center (SP) <br>
+Degree in Computing Centro Universitario Claretiano (SP) <br>
+MBA in Retail Marketing FaSouza (MG) <br>
+
+- 🔭 Hoje trabalho no suporte de infraestrutura do hospital Regional de Bebedouro (HA)
 - 🌱 Estudando Microsoft Azure Administrador Associeto Az104 Javascript, React Native, React Full Stark 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
