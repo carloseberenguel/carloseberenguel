@@ -19,7 +19,7 @@ Former high school teacher and technician Etec de Bebedouro - "Prof. Idio Zucchi
 Microsoft Certifield AZ -900 Cloud Certificate
 
 - 🔭 Today I work in infrastructure support at the Bebedouro Regional Hospital (Hospital de Amor)
-- 🌱 Studying Microsoft Certified: Azure Administrator Associate Az104 Javascript, React Native, React Full Stark 
+- 🌱 Studying Microsoft Certified: Azure Administrator Associate Az104 Javascript, React Native and React Full Stark 
 - 😄 Pronouns: ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=dark)![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dracula)
