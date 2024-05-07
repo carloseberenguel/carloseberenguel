@@ -8,6 +8,7 @@
 - 😄 Pronouns: ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dark)](https://github.com/carloseberenguela?tab=repositories)[![GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&layout=compact&theme=dark&hide=issues,contribs&line_height=30.5)](https://github.com/carloseberenguel?tab=overview&from=2018-01-01&to=2030-12-31) 
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
