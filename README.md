@@ -7,7 +7,8 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories)
+
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
@@ -33,7 +34,6 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories)
 
 </div>
 
