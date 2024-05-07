@@ -3,12 +3,14 @@
 ### Hello! I am Carlos Eduardo Berenguel
 
 Constantly updated for over 20 years,
-participation in internships, jobs and events in the IT area.
+participation in internships, jobs and events in the IT.
 
 Graduated from the Bachelor's degree in Information Systems at Faculdade São Luis FESL (2008) (SP) <br>
 Specialist graduate in the Postgraduate Lato Sensu Analysis, Implementation and computer projects - Barão de Maua university center (SP) <br>
 Degree in Computing Centro Universitario Claretiano (SP) <br>
 MBA in Retail Marketing FaSouza (MG) <br>
+
+Microsoft Certifield AZ -900 Cloud Certificate
 
 - 🔭 Hoje trabalho no suporte de infraestrutura do hospital Regional de Bebedouro (HA)
 - 🌱 Estudando Microsoft Azure Administrador Associeto Az104 Javascript, React Native, React Full Stark 
