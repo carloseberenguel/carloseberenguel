@@ -6,9 +6,13 @@ Constantly updated for over 20 years,
 participation in internships, jobs and events in the IT.
 
 Graduated from the Bachelor's degree in Information Systems at Faculdade São Luis FESL (2008) (SP) <br>
+<p>
 Specialist graduate in the Postgraduate Lato Sensu Analysis, Implementation and computer projects - Barão de Maua university center (SP) <br>
+<p>
 Degree in Computing Centro Universitario Claretiano (SP) <br>
+<p>
 MBA in Retail Marketing FaSouza (MG) <br>
+<p></p>
 
 Microsoft Certifield AZ -900 Cloud Certificate
 
