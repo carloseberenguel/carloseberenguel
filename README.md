@@ -16,11 +16,8 @@ MBA in Retail Marketing FaSouza (MG) <br>
 
 Microsoft Certifield AZ -900 Cloud Certificate
 
-- 🔭 Hoje trabalho no suporte de infraestrutura do hospital Regional de Bebedouro (HA)
-- 🌱 Estudando Microsoft Azure Administrador Associeto Az104 Javascript, React Native, React Full Stark 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 Today I work in infrastructure support at the Bebedouro Regional Hospital (Hospital de Amor)
+- 🌱 Studying Microsoft Certified: Azure Administrator Associate Az104 Javascript, React Native, React Full Stark 
 - 😄 Pronouns: ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dark)](https://github.com/carloseberenguel?tab=repositories)[![readme](https://github-readme-stats.vercel.app/api/pin/?username=carloseberenguel&repo=ELLEN2121&theme=react)](https://github.com/carloseberenguel/carloseberenguel)
