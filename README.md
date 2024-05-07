@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dark)](https://github.com/RenanBorba?tab=repositories)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dark)](https://github.com/carloseberenguel?tab=repositories)
 
 
 <div style="display: inline_block"><br>
