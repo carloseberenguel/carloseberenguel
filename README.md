@@ -22,7 +22,6 @@ Microsoft Certifield AZ -900 Cloud Certificate
 - 🌱 Studying Microsoft Certified: Azure Administrator Associate Az104 Javascript, React Native and React Full Stark 
 - 😄 Pronouns: ele/Dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseberenguel&show_icons=true&theme=dark)![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseberenguel&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
